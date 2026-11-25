@@ -1,49 +1,68 @@
-<h1 align="center">Hi 👋, I'm MOHIT PRAJAPATI</h1>
-<h3 align="center">Passionate about building web applications and continuously improving my coding skills</h3>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/235141062?v=4" alt="Mohit Prajapati" width="140" height="140" />
+  
+  <h1>Hi 👋, I'm Mohit Prajapati</h1>
+  <h3>Full-Stack Web Developer & Problem Solver</h3>
+  <p>Passionate about turning ideas into scalable, responsive real-world web applications.</p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/235141062?v=4" 
-       alt="Profile Pic" 
-       width="150" 
-       height="150" 
-       style="border-radius:50%; border:3px solid #0e75b6; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
-</p>
-- 🔭 Current Working on <br>
-Building responsive web applications Strengthening frontend & backend concepts <br>
-[Game_Projects](https://github.com/CodewithMohit9211/Game_Projects.git)
+  <!-- Social & Profile Badges (Replace '#' with your actual profile URLs) -->
+  <p>
+    <a href="https://github.com/CodewithMohit9211" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-- 🌱 Currently Learning **Advanced JavaScript React ⚛️ Data Structures & Algorithms**
+---
 
-- [Coffee-Website](https://github.com/CodewithMohit9211/Coffee-Website.git)
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [GitHub.com](GitHub.com)
+- 🔭 **Currently Working On:** Building responsive web applications and strengthening my full-stack architecture skills.
+- 🌱 **Currently Learning:** Advanced JavaScript, **React ⚛️**, and **Data Structures & Algorithms**.
+- 💬 **Ask Me About:** Python, JavaScript, HTML5, CSS3, and frontend development.
+- ⚡ **Fun Fact:** I love turning raw ideas into interactive, real-world projects.
 
-- 💬 Ask me about **Python🐍,HTML,CSS🎨,JavaScript⚡**
+---
 
-- ⚡ Fun fact **I love turning ideas into real-world projects 🚀**
+### 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Game Projects** | A collection of interactive browser-based games built to sharpen logic and DOM manipulation. | HTML, CSS, JavaScript | [View Repo](https://github.com/CodewithMohit9211/Game_Projects) |
+| **Coffee Website** | A modern, responsive landing page and web experience designed for a coffee brand. | HTML, CSS, JavaScript | [View Profile](https://github.com/CodewithMohit9211) |
+
+> 📂 *Explore all my repositories on [GitHub](https://github.com/CodewithMohit9211).*
+
+---
+
+### 🛠️ Languages & Tech Stack
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
+---
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohit9211&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithmohit9211&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmohit9211&theme=tokyonight" alt="Streak Stats"/>
-</p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithmohit9211&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohit's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohit9211&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmohit9211&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
