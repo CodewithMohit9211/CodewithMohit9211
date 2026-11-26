@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="www.linkedin.com/in/mohit-prajapati-38999138astyle=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:your-email@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -34,8 +34,8 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Game Projects** | A collection of interactive browser-based games built to sharpen logic and DOM manipulation. | HTML, CSS, JavaScript | [View Repo](https://github.com/CodewithMohit9211/Game_Projects) |
-| **Coffee Website** | A modern, responsive landing page and web experience designed for a coffee brand. | HTML, CSS, JavaScript | [View Profile](https://github.com/CodewithMohit9211) |
+| **Game Projects** | A collection of interactive browser-based games built to sharpen logic and DOM manipulation. | HTML, CSS, JavaScript | [View Repo](https://github.com/CodewithMohit9211/Game_Project) |
+| **Coffee Website** | A modern, responsive landing page and web experience designed for a coffee brand. | HTML, CSS, JavaScript | [View Profile](https://github.com/CodewithMohit9211/Coffee-Website) |
 
 > 📂 *Explore all my repositories on [GitHub](https://github.com/CodewithMohit9211).*
 
